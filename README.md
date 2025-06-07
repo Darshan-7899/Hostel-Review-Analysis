@@ -1,1 +1,1 @@
-# Hostel-Review-Analysis
+# Hotel-Review-Analysis
